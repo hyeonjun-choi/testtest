@@ -16,8 +16,8 @@ witdth="30%">
 ## 리스트
 
 번호없는 목록:
- - [돌아가기 상대경로](Secondfile.md)
- - [돌아가기 절대경로](./Secondfile.md)
+ - [돌아가기 상대경로](secondfile.md)
+ - [돌아가기 절대경로](./secondfile.md)
      - 서브1
      - 서브2
  - 리스트2
